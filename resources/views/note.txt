@@ -84,9 +84,10 @@ GIT
 GIT (upload project into your repo)
 -----
 - git init (will create .git folder)
-- git add 
+- git add .
 - git commit -m "message"
-- git remote -u origin master
+- git remote 
+- git push -u origin master
 
 GIT(clone)
 ----
